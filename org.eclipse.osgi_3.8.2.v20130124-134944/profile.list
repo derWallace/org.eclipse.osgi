@@ -10,6 +10,7 @@
 ###############################################################################
 java.profiles = \
  JavaSE-9.profile,\
+ JavaSE-1.8.profile,\
  JavaSE-1.7.profile,\
  JavaSE-1.6.profile,\
  J2SE-1.5.profile,\
